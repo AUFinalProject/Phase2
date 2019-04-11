@@ -2,7 +2,7 @@
 # Version 1.0
 # Date 04.2019
 # USAGE:
-# python Myrename.py StartIndex name 
+# python Myrename.py StartIndex Kind 
   
 # importing os module 
 import os
