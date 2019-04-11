@@ -2,7 +2,7 @@
 # Version 1.0
 # Date 04.2019
 # USAGE:
-# python new_thumbnailPDF.py
+# python3 new_thumbnailPDF.py
 
 # import the necessary packages  
 import os
