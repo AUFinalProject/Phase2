@@ -21,3 +21,12 @@
   
   * Run command `python Myrename.py StartIndex Kind`
   <br/>
+5.Extract /Root/Lang attribute and choose language for tessarcat:
+  
+  * `pip3 install PyPDF2`
+  * Run command `python3 detectLang2.py`
+  <br/>
+6.Detect if image is blur:
+  
+  * Run command `python detectBlur.py`
+  <br/>
