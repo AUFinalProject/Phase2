@@ -152,7 +152,7 @@ if __name__ == "__main__":
 	else:  
     		print ("[*] Successfully created the directory %s " % path)
 	arg = os.path.join(os.getcwd(), args["dataset"])    	
-	result = True #convert(arg)
+	result = convert(arg)
 	if (result):
         	print ("[*] Succces convert pdf files")
 	else:
