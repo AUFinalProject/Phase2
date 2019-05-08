@@ -35,6 +35,7 @@
   * Run command `python3 elbowMetod -d DATA_FOLDER`
   <br/>
 8.KMC for clustering image:
+
   * `pip3 install seaborn`
   * Run command `python KMC.py -d DATA_FOLDER`
   <br/>
